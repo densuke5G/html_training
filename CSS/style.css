@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.f_small {
+	font-size: 10px;
+}
+.f_large {
+	font-size: 18px;
+}
+.fc_red {color: #ff0000;}
+
+.fs24 {font-size: 24px;}
+
+.b {font-weight: bold;}
+
+#wrapper{
+	width: 600px;
+	background-color: #cef;
+	padding: 10px;
+}
+.fwn{
+	font-weight: normal;
+}
+.fwb:hover{
+	text-decoration: underline;
+	font-weight: bold;
+}
+.tal{
+	text-align: left;
+}
+.tac{
+	text-align: center;
+}
+.tar{
+	text-align: right;
+}
+.light_roast{
+	background-color: #b96;
+}
+.medium_roast{
+	background:no-repeat center url("coffee.png") #963;
+}
+.dark_roast{
+	background-color: #630;
+}
