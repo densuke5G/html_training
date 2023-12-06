@@ -1,0 +1,28 @@
+@charset "UTF-8";
+#header{
+	width: 700px;
+	height: 50px;
+	background-color: #48d1cc;
+	font-size: 42px;
+}
+.container{
+	display: flex;
+}
+#aside{
+	width: 200px;
+	height: 350px;
+	background-color: #7fffd4;
+}
+#main{
+	width: 500px;
+	height: 350px;
+	background-color: #ffebcd;
+}
+#footer{
+	width: 700px;
+	height: 50px;
+	background-color: #dcdcdc;
+}
+#title{
+	text-align: right;
+}
